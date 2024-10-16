@@ -11,3 +11,4 @@ else :
 if 6*7:
    print("Math is fun")
    print("Math is fun")    #when you print in python , you must know that block space matters
+
